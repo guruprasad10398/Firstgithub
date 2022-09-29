@@ -5,5 +5,6 @@ public class firstgithub {
  {
 	 System.out.println("hello github");
 	 System.out.println("guru");
+	 System.out.println("hi mayur");
  }
 }
